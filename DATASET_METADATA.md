@@ -1,6 +1,5 @@
 
 # Drug consumption (quantified) Data Set 
-[https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29#]
 
 [UCI Machine Learning Repository Link](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29#)
 
