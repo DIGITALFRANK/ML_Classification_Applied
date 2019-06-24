@@ -1,6 +1,8 @@
 
 # Drug consumption (quantified) Data Set 
-Download: Data Folder, Data Set Description
+[https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29#]
+
+[UCI Machine Learning Repository Link](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29#)
 
 Abstract: Classify type of drug consumer by personality data
 
