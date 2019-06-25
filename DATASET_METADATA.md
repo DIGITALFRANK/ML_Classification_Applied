@@ -98,11 +98,11 @@ Value Meaning Cases Fraction <br/>
 -0.07854 25-34 481 25.52% <br/>
 0.49788 35-44 356 18.89% <br/>
 1.09449 45-54 294 15.60%  
-1.82213 55-64 93 4.93% 
-2.59171 65+ 18 0.95% 
+1.82213 55-64 93 4.93%  
+2.59171 65+ 18 0.95%  
 
-Descriptive statistics 
-Min Max Mean Std.dev. 
+Descriptive statistics  
+Min Max Mean Std.dev.  
 -0.95197 2.59171 0.03461 0.87813 
 
 ### 3. Gender (Real) is gender of participant: 
