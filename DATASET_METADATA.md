@@ -159,7 +159,7 @@ _Descriptive statistics_
 -1.10702 / 1.90725 / -0.30958 / 0.16618  
 
 ### 7. Nscore (Real) is NEO-FFI-R Neuroticism. Possible values are presented in table below:  
-**Nscore / Cases / Value // Nscore / Cases / Value // Nscore / Cases / Value**  
+**Nscore / Cases / Value /// Nscore / Cases / Value /// Nscore / Cases / Value**  
 12 / 1 / -3.46436 /// 29 / 60 / -0.67825 /// 46 / 67 / 1.02119  
 13 / 1 / -3.15735 /// 30 / 61 / -0.58016 /// 47 / 27 / 1.13281  
 14 / 7 / -2.75696 /// 31 / 87 / -0.46725 /// 48 / 49 / 1.23461  
@@ -267,15 +267,15 @@ _Descriptive statistics_
 ### 12. Impulsive (Real) is impulsiveness measured by BIS-11. Possible values are presented in table below:  
 **Impulsiveness / Cases / Fraction**  
 -2.55524 / 20 1.06% 
--1.37983 / 276 / 14.64% 
--0.71126 / 307 / 16.29% 
--0.21712 / 355 / 18.83% 
-0.19268 / 257 / 13.63% 
-0.52975 / 216 / 11.46% 
-0.88113 / 195 / 10.34% 
-1.29221 / 148 / 7.85% 
-1.86203 / 104 / 5.52% 
-2.90161 / 7 / 0.37% 
+-1.37983 / 276 / 14.64%  
+-0.71126 / 307 / 16.29%  
+-0.21712 / 355 / 18.83%  
+0.19268 / 257 / 13.63%  
+0.52975 / 216 / 11.46%  
+0.88113 / 195 / 10.34%  
+1.29221 / 148 / 7.85%  
+1.86203 / 104 / 5.52%  
+2.90161 / 7 / 0.37%  
 
 _Descriptive statistics_  
 **Min / Max / Mean / Std.dev.** 
@@ -307,7 +307,7 @@ _Descriptive statistics_
 
 ### 17. Benzos is class of benzodiazepine consumption. It is output attribute with following distribution of classes: 
 
-_Value Class Alcohol Amphet Amyl Benzos_ 
+_Value Class ///// Alcohol /// Amphet /// Amyl /// Benzos_ 
 **Value ///// Meaning ///// Cases / Fraction /// Cases / Fraction /// Cases / Fraction /// Cases / Fraction**  
 CL0 ///// Never Used ///// 34 / 1.80% /// 976 / 51.78% /// 1305 / 69.23% /// 1000 / 53.05% 
 CL1 ///// Used over a Decade Ago ///// 34 / 1.80% /// 230 / 12.20% /// 210 / 11.14% /// 116 / 6.15% 
@@ -325,15 +325,15 @@ CL6 ///// Used in Last Day ///// 505 / 26.79% /// 102 / 5.41% /// 3 / 0.16% /// 
 
 ### 21. Coke is class of cocaine consumption. It is output attribute with following distribution of classes: 
 
-_Value Class Caff Cannabis Choc Coke_
-Cases Fraction Cases Fraction Cases Fraction Cases Fraction 
-CL0 Never Used 27 1.43% 413 21.91% 32 1.70% 1038 55.07% 
-CL1 Used over a Decade Ago 10 0.53% 207 10.98% 3 0.16% 160 8.49% 
-CL2 Used in Last Decade 24 1.27% 266 14.11% 10 0.53% 270 14.32% 
-CL3 Used in Last Year 60 3.18% 211 11.19% 54 2.86% 258 13.69% 
-CL4 Used in Last Month 106 5.62% 140 7.43% 296 15.70% 99 5.25% 
-CL5 Used in Last Week 273 14.48% 185 9.81% 683 36.23% 41 2.18% 
-CL6 Used in Last Day 1385 73.47% 463 24.56% 807 42.81% 19 1.01% 
+_Value Class ///// Caff /// Cannabis /// Choc /// Coke_  
+**Value ///// Meaning ///// Cases / Fraction /// Cases / Fraction /// Cases / Fraction /// Cases / Fraction**  
+CL0 ///// Never Used ///// 27 / 1.43% /// 413 / 21.91% /// 32 / 1.70% /// 1038 / 55.07%  
+CL1 ///// Used over a Decade Ago ///// 10 / 0.53% /// 207 / 10.98% /// 3 / 0.16% /// 160 / 8.49%  
+CL2 ///// Used in Last Decade ///// 24 / 1.27% /// 266 / 14.11% /// 10 / 0.53% /// 270 / 14.32%  
+CL3 ///// Used in Last Year ///// 60 / 3.18% /// 211 / 11.19% /// 54 / 2.86% /// 258 / 13.69%  
+CL4 ///// Used in Last Month ///// 106 / 5.62% /// 140 / 7.43% /// 296 / 15.70% /// 99 / 5.25%  
+CL5 ///// Used in Last Week ///// 273 / 14.48%  /// 185 / 9.81% /// 683 / 36.23% /// 41 / 2.18%  
+CL6 ///// Used in Last Day ///// 1385 / 73.47% /// 463 / 24.56% /// 807 / 42.81% /// 19 / 1.01%  
 
 ### 22. Crack is class of crack consumption. It is output attribute with following distribution of classes. 
 
@@ -343,8 +343,8 @@ CL6 Used in Last Day 1385 73.47% 463 24.56% 807 42.81% 19 1.01%
 
 ### 25. Ketamine is class of ketamine consumption. It is output attribute with following distribution of classes: 
 
-_Value Class Crack Ecstasy Heroin Ketamine_
-Cases Fraction Cases Fraction Cases Fraction Cases Fraction 
+_Value Class ///// Crack /// Ecstasy /// Heroin /// Ketamine_
+**Value ///// Meaning ///// Cases Fraction /// Cases Fraction /// Cases Fraction /// Cases Fraction** 
 CL0 Never Used 1627 86.31% 1021 54.16% 1605 85.15% 1490 79.05% 
 CL1 Used over a Decade Ago 67 3.55% 113 5.99% 68 3.61% 45 2.39% 
 CL2 Used in Last Decade 112 5.94% 234 12.41% 94 4.99% 142 7.53% 
@@ -361,13 +361,13 @@ CL6 Used in Last Day 2 0.11% 21 1.11% 13 0.69% 4 0.21%
 
 ### 29. Mushrooms is class of magic mushrooms consumption. It is output attribute with following distribution of classes: 
 
-_Value Class Legalh LSD Meth Mushrooms_
-Cases Fraction Cases Fraction Cases Fraction Cases Fraction 
-CL0 Never Used 1094 58.04% 1069 56.71% 1429 75.81% 982 52.10% 
-CL1 Used over a Decade Ago 29 1.54% 259 13.74% 39 2.07% 209 11.09% 
-CL2 Used in Last Decade 198 10.50% 177 9.39% 97 5.15% 260 13.79% 
-CL3 Used in Last Year 323 17.14% 214 11.35% 149 7.90% 275 14.59% 
-CL4 Used in Last Month 110 5.84% 97 5.15% 50 2.65% 115 6.10% 
+_Value Class ///// Legalh /// LSD /// Meth /// Mushrooms_  
+**Value ///// Meaning ///// Cases Fraction Cases Fraction Cases Fraction Cases Fraction** 
+CL0 ///// Never Used 1094 58.04% 1069 56.71% 1429 75.81% 982 52.10% 
+CL1 ///// Used over a Decade Ago 29 1.54% 259 13.74% 39 2.07% 209 11.09% 
+CL2 ///// Used in Last Decade 198 10.50% 177 9.39% 97 5.15% 260 13.79% 
+CL3 ///// Used in Last Year 323 17.14% 214 11.35% 149 7.90% 275 14.59% 
+CL4 ///// Used in Last Month 110 5.84% 97 5.15% 50 2.65% 115 6.10% 
 CL5 Used in Last Week 64 3.40% 56 2.97% 48 2.55% 40 2.12% 
 CL6 Used in Last Day 67 3.55% 13 0.69% 73 3.87% 4 0.21% 
 
