@@ -107,56 +107,56 @@ _Descriptive statistics_
 
 ### 3. Gender (Real) is gender of participant: 
 **Value / Meaning / Cases / Fraction**  
-0.48246 Female 942 49.97%  
--0.48246 Male 943 50.03%  
+0.48246 / Female / 942 / 49.97%  
+-0.48246 / Male / 943 / 50.03%  
 
-Descriptive statistics 
-Min Max Mean Std.dev. 
--0.48246 0.48246 -0.00026 0.48246 
+_Descriptive statistics_  
+Min / Max / Mean / Std.dev.  
+-0.48246 / 0.48246 / -0.00026 / 0.48246  
 
-### 4. Education (Real) is level of education of participant and has one of the values: 
-Value Meaning Cases Fraction 
--2.43591 Left school before 16 years 28 1.49% 
--1.73790 Left school at 16 years 99 5.25% 
--1.43719 Left school at 17 years 30 1.59% 
--1.22751 Left school at 18 years 100 5.31% 
--0.61113 Some college or university, no certificate or degree 506 26.84% 
--0.05921 Professional certificate/ diploma 270 14.32% 
-0.45468 University degree 480 25.46% 
-1.16365 Masters degree 283 15.01% 
-1.98437 Doctorate degree 89 4.72% 
+### 4. Education (Real) is level of education of participant and has one of the values:  
+Value / Meaning / Cases / Fraction  
+-2.43591 / Left school before 16 years / 28 / 1.49%  
+-1.73790 / Left school at 16 years / 99 / 5.25%  
+-1.43719 / Left school at 17 years / 30 / 1.59%  
+-1.22751 / Left school at 18 years / 100 / 5.31%  
+-0.61113 / Some college or university, no certificate or degree / 506 / 26.84%  
+-0.05921 / Professional certificate - diploma / 270 / 14.32%  
+0.45468 / University degree / 480 / 25.46%  
+1.16365 / Masters degree / 283 / 15.01%  
+1.98437 / Doctorate degree / 89 / 4.72%  
 
-Descriptive statistics 
-Min Max Mean Std.dev. 
--2.43591 1.98437 -0.00379 0.95004 
+_Descriptive statistics_  
+Min / Max / Mean / Std.dev. 
+-2.43591 / 1.98437 / -0.00379 / 0.95004  
 
-### 5. Country (Real) is country of current residence of participant and has one of the values: 
-Value Meaning Cases Fraction 
--0.09765 Australia 54 2.86% 
-0.24923 Canada 87 4.62% 
--0.46841 New Zealand 5 0.27% 
--0.28519 Other 118 6.26% 
-0.21128 Republic of Ireland 20 1.06% 
-0.96082 UK 1044 55.38% 
--0.57009 USA 557 29.55% 
+### 5. Country (Real) is country of current residence of participant and has one of the values:  
+Value / Meaning / Cases / Fraction   
+-0.09765 / Australia / 54 / 2.86%  
+0.24923 / Canada / 87 / 4.62%  
+-0.46841 / New Zealand / 5 / 0.27%  
+-0.28519 / Other / 118 / 6.26%  
+0.21128 / Republic of Ireland / 20 / 1.06%  
+0.96082 / UK / 1044 / 55.38%  
+-0.57009 / USA / 557 / 29.55%  
 
-Descriptive statistics 
+_Descriptive statistics_  
 Min Max Mean Std.dev. 
 -0.57009 0.96082 0.35554 0.70015 
 
-### 6. Ethnicity (Real) is ethnicity of participant and has one of the values: 
-Value Meaning Cases Fraction 
--0.50212 Asian 26 1.38% 
--1.10702 Black 33 1.75% 
-1.90725 Mixed-Black/Asian 3 0.16% 
-0.12600 Mixed-White/Asian 20 1.06% 
--0.22166 Mixed-White/Black 20 1.06% 
-0.11440 Other 63 3.34% 
--0.31685 White 1720 91.25% 
+### 6. Ethnicity (Real) is ethnicity of participant and has one of the values:  
+Value / Meaning / Cases / Fraction  
+-0.50212 / Asian / 26 / 1.38%  
+-1.10702 / Black / 33 / 1.75%  
+1.90725 / Mixed-Black-Asian / 3 / 0.16%  
+0.12600 / Mixed-White-Asian / 20 / 1.06%  
+-0.22166 / Mixed-White-Black / 20 / 1.06%  
+0.11440 / Other / 63 / 3.34%  
+-0.31685 / White / 1720 / 91.25%  
 
-Descriptive statistics 
-Min Max Mean Std.dev. 
--1.10702 1.90725 -0.30958 0.16618 
+_Descriptive statistics_  
+Min / Max / Mean / Std.dev.  
+-1.10702 / 1.90725 / -0.30958 / 0.16618  
 
 ### 7. Nscore (Real) is NEO-FFI-R Neuroticism. Possible values are presented in table below: 
 Nscore Cases Value Nscore Cases Value Nscore Cases Value 
