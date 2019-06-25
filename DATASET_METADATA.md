@@ -111,7 +111,7 @@ _Descriptive statistics_
 -0.48246 / Male / 943 / 50.03%  
 
 _Descriptive statistics_  
-Min / Max / Mean / Std.dev.  
+**Min / Max / Mean / Std.dev.**  
 -0.48246 / 0.48246 / -0.00026 / 0.48246  
 
 ### 4. Education (Real) is level of education of participant and has one of the values:  
@@ -127,7 +127,7 @@ Value / Meaning / Cases / Fraction
 1.98437 / Doctorate degree / 89 / 4.72%  
 
 _Descriptive statistics_  
-Min / Max / Mean / Std.dev. 
+**Min / Max / Mean / Std.dev.**  
 -2.43591 / 1.98437 / -0.00379 / 0.95004  
 
 ### 5. Country (Real) is country of current residence of participant and has one of the values:  
@@ -141,8 +141,8 @@ Value / Meaning / Cases / Fraction
 -0.57009 / USA / 557 / 29.55%  
 
 _Descriptive statistics_  
-Min Max Mean Std.dev. 
--0.57009 0.96082 0.35554 0.70015 
+**Min / Max / Mean / Std.dev.**  
+-0.57009 / 0.96082 / 0.35554 / 0.70015   
 
 ### 6. Ethnicity (Real) is ethnicity of participant and has one of the values:  
 Value / Meaning / Cases / Fraction  
@@ -155,28 +155,28 @@ Value / Meaning / Cases / Fraction
 -0.31685 / White / 1720 / 91.25%  
 
 _Descriptive statistics_  
-Min / Max / Mean / Std.dev.  
+**Min / Max / Mean / Std.dev.**  
 -1.10702 / 1.90725 / -0.30958 / 0.16618  
 
-### 7. Nscore (Real) is NEO-FFI-R Neuroticism. Possible values are presented in table below: 
-Nscore Cases Value Nscore Cases Value Nscore Cases Value 
-12 1 -3.46436 29 60 -0.67825 46 67 1.02119 
-13 1 -3.15735 30 61 -0.58016 47 27 1.13281 
-14 7 -2.75696 31 87 -0.46725 48 49 1.23461 
-15 4 -2.52197 32 78 -0.34799 49 40 1.37297 
-16 3 -2.42317 33 68 -0.24649 50 24 1.49158 
-17 4 -2.34360 34 76 -0.14882 51 27 1.60383 
-18 10 -2.21844 35 69 -0.05188 52 17 1.72012 
-19 16 -2.05048 36 73 0.04257 53 20 1.83990 
-20 24 -1.86962 37 67 0.13606 54 15 1.98437 
-21 31 -1.69163 38 63 0.22393 55 11 2.12700 
-22 26 -1.55078 39 66 0.31287 56 10 2.28554 
-23 29 -1.43907 40 80 0.41667 57 6 2.46262 
-24 35 -1.32828 41 61 0.52135 58 3 2.61139 
-25 56 -1.19430 42 77 0.62967 59 5 2.82196 
-26 57 -1.05308 43 49 0.73545 60 2 3.27393 
-27 65 -0.92104 44 51 0.82562 
-28 70 -0.79151 45 37 0.91093 
+### 7. Nscore (Real) is NEO-FFI-R Neuroticism. Possible values are presented in table below:  
+**Nscore / Cases / Value // Nscore / Cases / Value // Nscore / Cases / Value**  
+12 / 1 / -3.46436 // 29 / 60 / -0.67825 // 46 / 67 / 1.02119  
+13 / 1 / -3.15735 // 30 / 61 / -0.58016 // 47 / 27 / 1.13281  
+14 / 7 / -2.75696 // 31 / 87 / -0.46725 // 48 / 49 / 1.23461  
+15 / 4 / -2.52197 // 32 / 78 / -0.34799 // 49 / 40 / 1.37297   
+16 / 3 / -2.42317 // 33 / 68 / -0.24649 // 50 / 24 / 1.49158  
+17 / 4 / -2.34360 // 34 / 76 / -0.14882 // 51 / 27 / 1.60383 
+18 / 10 / -2.21844 // 35 / 69 / -0.05188 // 52 / 17 / 1.72012 
+19 / 16 / -2.05048 // 36 / 73 / 0.04257 // 53 / 20 / 1.83990 
+20 / 24 / -1.86962 // 37 / 67 / 0.13606 // 54 / 15 / 1.98437 
+21 / 31 / -1.69163 // 38 / 63 / 0.22393 // 55 / 11 / 2.12700 
+22 / 26 / -1.55078 // 39 / 66 / 0.31287 // 56 / 10 / 2.28554 
+23 / 29 / -1.43907 // 40 / 80 / 0.41667 // 57 / 6 / 2.46262 
+24 / 35 / -1.32828 // 41 / 61 / 0.52135 // 58 / 3 / 2.61139 
+25 / 56 / -1.19430 // 42 / 77 / 0.62967 // 59 / 5 / 2.82196 
+26 / 57 / -1.05308 // 43 / 49 / 0.73545 // 60 / 2 / 3.27393 
+27 / 65 / -0.92104 // 44 / 51 / 0.82562 
+28 / 70 / -0.79151 // 45 / 37 / 0.91093 
 
 Descriptive statistics 
 Min Max Mean Std.dev. 
