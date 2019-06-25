@@ -93,20 +93,20 @@ Paper above solve binary classification problem for all drugs. For most of drugs
 Cannot be related to participant. It can be used for reference only. 
 
 ### 2. Age (Real) is age of participant and has one of the values: <br/>
-**Value Meaning Cases Fraction** <br/>
--0.95197 18-24 643 34.11% <br/>
--0.07854 25-34 481 25.52% <br/>
-0.49788 35-44 356 18.89% <br/>
-1.09449 45-54 294 15.60%  
-1.82213 55-64 93 4.93%  
-2.59171 65+ 18 0.95%  
+**Value / Meaning / Cases / Fraction** <br/>
+-0.95197 / 18-24 / 643 / 34.11% <br/>
+-0.07854 / 25-34 / 481 / 25.52% <br/>
+0.49788 / 35-44 / 356 / 18.89% <br/>
+1.09449 / 45-54 / 294 / 15.60%  
+1.82213 / 55-64 / 93 / 4.93%  
+2.59171 / 65+ / 18 / 0.95%  
 
 _Descriptive statistics_  
-**Min Max Mean Std.dev.**  
--0.95197 2.59171 0.03461 0.87813 
+**Min / Max / Mean / Std.dev.**  
+-0.95197 / 2.59171 / 0.03461 / 0.87813 
 
 ### 3. Gender (Real) is gender of participant: 
-**Value Meaning Cases Fraction**  
+**Value / Meaning / Cases / Fraction**  
 0.48246 Female 942 49.97%  
 -0.48246 Male 943 50.03%  
 
