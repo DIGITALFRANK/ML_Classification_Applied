@@ -278,7 +278,7 @@ _Descriptive statistics_
 2.90161 / 7 / 0.37%  
 
 _Descriptive statistics_  
-**Min / Max / Mean / Std.dev.** 
+**Min / Max / Mean / Std.dev.**  
 -2.55524 / 2.90161 / 0.00721 / 0.95446 
 
 ### 13. SS (Real) is sensation seeing measured by ImpSS. Possible values are presented in table below:  
@@ -307,15 +307,15 @@ _Descriptive statistics_
 
 ### 17. Benzos is class of benzodiazepine consumption. It is output attribute with following distribution of classes: 
 
-_Value Class ///// Alcohol /// Amphet /// Amyl /// Benzos_ 
+_Value Class ///// Alcohol /// Amphet /// Amyl /// Benzos_  
 **Value ///// Meaning ///// Cases / Fraction /// Cases / Fraction /// Cases / Fraction /// Cases / Fraction**  
-CL0 ///// Never Used ///// 34 / 1.80% /// 976 / 51.78% /// 1305 / 69.23% /// 1000 / 53.05% 
-CL1 ///// Used over a Decade Ago ///// 34 / 1.80% /// 230 / 12.20% /// 210 / 11.14% /// 116 / 6.15% 
-CL2 ///// Used in Last Decade ///// 68 / 3.61% /// 243 / 12.89% /// 237 / 12.57% /// 234 / 12.41% 
-CL3 ///// Used in Last Year ///// 198 / 10.50% /// 198 / 10.50% /// 92 / 4.88% /// 236 / 12.52% 
-CL4 ///// Used in Last Month ///// 287 / 15.23% /// 75 / 3.98% /// 24 / 1.27% /// 120 / 6.37% 
-CL5 ///// Used in Last Week ///// 759 / 40.27% /// 61 / 3.24% /// 14 / 0.74% /// 84 / 4.46% 
-CL6 ///// Used in Last Day ///// 505 / 26.79% /// 102 / 5.41% /// 3 / 0.16% /// 95 / 5.04% 
+CL0 ///// Never Used ///// 34 / 1.80% /// 976 / 51.78% /// 1305 / 69.23% /// 1000 / 53.05%  
+CL1 ///// Used over a Decade Ago ///// 34 / 1.80% /// 230 / 12.20% /// 210 / 11.14% /// 116 / 6.15%  
+CL2 ///// Used in Last Decade ///// 68 / 3.61% /// 243 / 12.89% /// 237 / 12.57% /// 234 / 12.41%  
+CL3 ///// Used in Last Year ///// 198 / 10.50% /// 198 / 10.50% /// 92 / 4.88% /// 236 / 12.52%  
+CL4 ///// Used in Last Month ///// 287 / 15.23% /// 75 / 3.98% /// 24 / 1.27% /// 120 / 6.37%  
+CL5 ///// Used in Last Week ///// 759 / 40.27% /// 61 / 3.24% /// 14 / 0.74% /// 84 / 4.46%  
+CL6 ///// Used in Last Day ///// 505 / 26.79% /// 102 / 5.41% /// 3 / 0.16% /// 95 / 5.04%  
 
 ### 18. Caff is class of caffeine consumption. It is output attribute with following distribution of classes. 
 
@@ -343,15 +343,15 @@ CL6 ///// Used in Last Day ///// 1385 / 73.47% /// 463 / 24.56% /// 807 / 42.81%
 
 ### 25. Ketamine is class of ketamine consumption. It is output attribute with following distribution of classes: 
 
-_Value Class ///// Crack /// Ecstasy /// Heroin /// Ketamine_
-**Value ///// Meaning ///// Cases Fraction /// Cases Fraction /// Cases Fraction /// Cases Fraction** 
-CL0 Never Used 1627 86.31% 1021 54.16% 1605 85.15% 1490 79.05% 
-CL1 Used over a Decade Ago 67 3.55% 113 5.99% 68 3.61% 45 2.39% 
-CL2 Used in Last Decade 112 5.94% 234 12.41% 94 4.99% 142 7.53% 
-CL3 Used in Last Year 59 3.13% 277 14.69% 65 3.45% 129 6.84% 
-CL4 Used in Last Month 9 0.48% 156 8.28% 24 1.27% 42 2.23% 
-CL5 Used in Last Week 9 0.48% 63 3.34% 16 0.85% 33 1.75% 
-CL6 Used in Last Day 2 0.11% 21 1.11% 13 0.69% 4 0.21% 
+_Value Class ///// Crack /// Ecstasy /// Heroin /// Ketamine_  
+**Value ///// Meaning ///// Cases / Fraction /// Cases / Fraction /// Cases / Fraction /// Cases / Fraction**  
+CL0 ///// Never Used ///// 1627 / 86.31% /// 1021 / 54.16% /// 1605 / 85.15% /// 1490 / 79.05%  
+CL1 ///// Used over a Decade Ago ///// 67 / 3.55% /// 113 / 5.99% /// 68 / 3.61% /// 45 / 2.39%  
+CL2 ///// Used in Last Decade ///// 112 / 5.94% /// 234 / 12.41% /// 94 / 4.99% /// 142 / 7.53%  
+CL3 ///// Used in Last Year ///// 59 / 3.13% /// 277 / 14.69% /// 65 / 3.45% /// 129 / 6.84%  
+CL4 ///// Used in Last Month ///// 9 / 0.48% /// 156 / 8.28% /// 24 / 1.27% /// 42 / 2.23%  
+CL5 ///// Used in Last Week ///// 9 / 0.48% /// 63 / 3.34% /// 16 / 0.85% /// 33 / 1.75%  
+CL6 ///// Used in Last Day ///// 2 / 0.11% /// 21 / 1.11% /// 13 / 0.69% /// 4 / 0.21%  
 
 ### 26. Legalh is class of legal highs consumption. It is output attribute with following distribution of classes 
 
@@ -362,14 +362,14 @@ CL6 Used in Last Day 2 0.11% 21 1.11% 13 0.69% 4 0.21%
 ### 29. Mushrooms is class of magic mushrooms consumption. It is output attribute with following distribution of classes: 
 
 _Value Class ///// Legalh /// LSD /// Meth /// Mushrooms_  
-**Value ///// Meaning ///// Cases Fraction Cases Fraction Cases Fraction Cases Fraction** 
-CL0 ///// Never Used 1094 58.04% 1069 56.71% 1429 75.81% 982 52.10% 
-CL1 ///// Used over a Decade Ago 29 1.54% 259 13.74% 39 2.07% 209 11.09% 
-CL2 ///// Used in Last Decade 198 10.50% 177 9.39% 97 5.15% 260 13.79% 
-CL3 ///// Used in Last Year 323 17.14% 214 11.35% 149 7.90% 275 14.59% 
-CL4 ///// Used in Last Month 110 5.84% 97 5.15% 50 2.65% 115 6.10% 
-CL5 Used in Last Week 64 3.40% 56 2.97% 48 2.55% 40 2.12% 
-CL6 Used in Last Day 67 3.55% 13 0.69% 73 3.87% 4 0.21% 
+**Value ///// Meaning ///// Cases Fraction Cases Fraction Cases Fraction Cases Fraction**  
+CL0 ///// Never Used ///// 1094 / 58.04% /// 1069 / 56.71% /// 1429 / 75.81% /// 982 / 52.10%  
+CL1 ///// Used over a Decade Ago ///// 29 / 1.54% /// 259 / 13.74% /// 39 / 2.07% /// 209 / 11.09%  
+CL2 ///// Used in Last Decade ///// 198 / 10.50% /// 177 / 9.39% /// 97 / 5.15% /// 260 / 13.79%  
+CL3 ///// Used in Last Year ///// 323 / 17.14% /// 214 / 11.35% /// 149 / 7.90% /// 275 / 14.59%  
+CL4 ///// Used in Last Month ///// 110 / 5.84% /// 97 / 5.15% /// 50 / 2.65% /// 115 / 6.10%  
+CL5 ///// Used in Last Week ///// 64 / 3.40% /// 56 / 2.97% /// 48 / 2.55% /// 40 / 2.12%  
+CL6 ///// Used in Last Day ///// 67 / 3.55% /// 13 / 0.69% /// 73 / 3.87% /// 4 / 0.21%  
 
 ### 30. Nicotine is class of nicotine consumption. It is output attribute with following distribution of classes. 
 
@@ -377,15 +377,15 @@ CL6 Used in Last Day 67 3.55% 13 0.69% 73 3.87% 4 0.21%
 
 ### 32. VSA is class of volatile substance abuse consumption. It is output attribute with following distribution of classes: 
 
-_Value Class Nicotine Semer VSA_
-Cases Fraction Cases Fraction Cases Fraction 
-CL0 Never Used 428 22.71% 1877 99.58% 1455 77.19% 
-CL1 Used over a Decade Ago 193 10.24% 2 0.11% 200 10.61% 
-CL2 Used in Last Decade 204 10.82% 3 0.16% 135 7.16% 
-CL3 Used in Last Year 185 9.81% 2 0.11% 61 3.24% 
-CL4 Used in Last Month 108 5.73% 1 0.05% 13 0.69% 
-CL5 Used in Last Week 157 8.33% 0 0.00% 14 0.74% 
-CL6 Used in Last Day 610 32.36% 0 0.00% 7 0.37% 
+_Value Class ///// Nicotine /// Semer /// VSA_  
+**Value ///// Meaning ///// Cases Fraction Cases Fraction Cases Fraction**  
+CL0 ///// Never Used ///// 428 22.71% /// 1877 / 99.58% /// 1455 / 77.19%  
+CL1 ///// Used over a Decade Ago ///// 193 / 10.24% /// 2 0.11% /// 200 / 10.61%  
+CL2 ///// Used in Last Decade ///// 204 / 10.82% /// 3 0.16% /// 135 / 7.16%  
+CL3 ///// Used in Last Year ///// 185 / 9.81% /// 2 0.11% /// 61 / 3.24%  
+CL4 ///// Used in Last Month ///// 108 / 5.73% /// 1 0.05% /// 13 / 0.69%  
+CL5 ///// Used in Last Week ///// 157 / 8.33% /// 0 0.00% /// 14 / 0.74%  
+CL6 ///// Used in Last Day ///// 610 / 32.36% /// 0 0.00% /// 7 / 0.37%  
 
 
 ## Relevant Papers:
