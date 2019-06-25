@@ -3,46 +3,46 @@
 
 [UCI Machine Learning Repository Link](https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29#)
 
-Abstract: Classify type of drug consumer by personality data
+## Abstract: Classify type of drug consumer by personality data
 
-Data Set Characteristics:  
+### Data Set Characteristics:  
 
 Multivariate
 
-Number of Instances:
+### Number of Instances:
 
 1885
 
-Area:
+### Area:
 
 Social
 
-Attribute Characteristics:
+### Attribute Characteristics:
 
 Real
 
-Number of Attributes:
+### Number of Attributes:
 
 32
 
-Date Donated
+### Date Donated
 
 2016-10-17
 
-Associated Tasks:
+### Associated Tasks:
 
 Classification
 
-Missing Values?
+### Missing Values?
 
 N/A
 
-Number of Web Hits:
+### Number of Web Hits:
 
 90904
 
 
-Source:
+### Source:
 
 Original Owners of Database: 
 
@@ -72,7 +72,7 @@ Leicester, LE1 7RH, UK,
 em322 '@' le.ac.uk 
 
 
-Data Set Information:
+### Data Set Information:
 
 Database contains records for 1885 respondents. For each respondent 12 attributes are known: Personality measurements which include NEO-FFI-R (neuroticism, extraversion, openness to experience, agreeableness, and conscientiousness), BIS-11 (impulsivity), and ImpSS (sensation seeking), level of education, age, gender, country of residence and ethnicity. All input attributes are originally categorical and are quantified. After quantification values of all input features can be considered as real-valued. In addition, participants were questioned concerning their use of 18 legal and illegal drugs (alcohol, amphetamines, amyl nitrite, benzodiazepine, cannabis, chocolate, cocaine, caffeine, crack, ecstasy, heroin, ketamine, legal highs, LSD, methadone, mushrooms, nicotine and volatile substance abuse and one fictitious drug (Semeron) which was introduced to identify over-claimers. For each drug they have to select one of the answers: never used the drug, used it over a decade ago, or in the last decade, year, month, week, or day.
 Database contains 18 classification problems. Each of independent label variables contains seven classes: "Never Used", "Used over a Decade Ago", "Used in Last Decade", "Used in Last Year", "Used in Last Month", "Used in Last Week", and "Used in Last Day".
@@ -87,11 +87,12 @@ Detailed description of database and process of data quantification are presente
 Paper above solve binary classification problem for all drugs. For most of drugs sensitivity and specificity are greater than 75%.
 
 
-Attribute Information:
+## Attribute Information:
 
-1. ID is number of record in original database. Cannot be related to participant. It can be used for reference only. 
+### 1. ID is number of record in original database. 
+Cannot be related to participant. It can be used for reference only. 
 
-2. Age (Real) is age of participant and has one of the values: 
+### 2. Age (Real) is age of participant and has one of the values: 
 Value Meaning Cases Fraction 
 -0.95197 18-24 643 34.11% 
 -0.07854 25-34 481 25.52% 
@@ -99,19 +100,21 @@ Value Meaning Cases Fraction
 1.09449 45-54 294 15.60% 
 1.82213 55-64 93 4.93% 
 2.59171 65+ 18 0.95% 
+
 Descriptive statistics 
 Min Max Mean Std.dev. 
 -0.95197 2.59171 0.03461 0.87813 
 
-3. Gender (Real) is gender of participant: 
+### 3. Gender (Real) is gender of participant: 
 Value Meaning Cases Fraction 
 0.48246 Female 942 49.97% 
 -0.48246 Male 943 50.03% 
+
 Descriptive statistics 
 Min Max Mean Std.dev. 
 -0.48246 0.48246 -0.00026 0.48246 
 
-4. Education (Real) is level of education of participant and has one of the values: 
+### 4. Education (Real) is level of education of participant and has one of the values: 
 Value Meaning Cases Fraction 
 -2.43591 Left school before 16 years 28 1.49% 
 -1.73790 Left school at 16 years 99 5.25% 
@@ -122,11 +125,12 @@ Value Meaning Cases Fraction
 0.45468 University degree 480 25.46% 
 1.16365 Masters degree 283 15.01% 
 1.98437 Doctorate degree 89 4.72% 
+
 Descriptive statistics 
 Min Max Mean Std.dev. 
 -2.43591 1.98437 -0.00379 0.95004 
 
-5. Country (Real) is country of current residence of participant and has one of the values: 
+### 5. Country (Real) is country of current residence of participant and has one of the values: 
 Value Meaning Cases Fraction 
 -0.09765 Australia 54 2.86% 
 0.24923 Canada 87 4.62% 
@@ -135,11 +139,12 @@ Value Meaning Cases Fraction
 0.21128 Republic of Ireland 20 1.06% 
 0.96082 UK 1044 55.38% 
 -0.57009 USA 557 29.55% 
+
 Descriptive statistics 
 Min Max Mean Std.dev. 
 -0.57009 0.96082 0.35554 0.70015 
 
-6. Ethnicity (Real) is ethnicity of participant and has one of the values: 
+### 6. Ethnicity (Real) is ethnicity of participant and has one of the values: 
 Value Meaning Cases Fraction 
 -0.50212 Asian 26 1.38% 
 -1.10702 Black 33 1.75% 
@@ -148,11 +153,12 @@ Value Meaning Cases Fraction
 -0.22166 Mixed-White/Black 20 1.06% 
 0.11440 Other 63 3.34% 
 -0.31685 White 1720 91.25% 
+
 Descriptive statistics 
 Min Max Mean Std.dev. 
 -1.10702 1.90725 -0.30958 0.16618 
 
-7. Nscore (Real) is NEO-FFI-R Neuroticism. Possible values are presented in table below: 
+### 7. Nscore (Real) is NEO-FFI-R Neuroticism. Possible values are presented in table below: 
 Nscore Cases Value Nscore Cases Value Nscore Cases Value 
 12 1 -3.46436 29 60 -0.67825 46 67 1.02119 
 13 1 -3.15735 30 61 -0.58016 47 27 1.13281 
@@ -171,11 +177,12 @@ Nscore Cases Value Nscore Cases Value Nscore Cases Value
 26 57 -1.05308 43 49 0.73545 60 2 3.27393 
 27 65 -0.92104 44 51 0.82562 
 28 70 -0.79151 45 37 0.91093 
+
 Descriptive statistics 
 Min Max Mean Std.dev. 
 -3.46436 3.27393 0.00004 0.99808 
 
-8. Escore (Real) is NEO-FFI-R Extraversion. Possible values are presented in table below: 
+### 8. Escore (Real) is NEO-FFI-R Extraversion. Possible values are presented in table below: 
 Escore Cases Value Escore Cases Value Escore Cases Value 
 16 2 -3.27393 31 55 -1.23177 45 91 0.80523 
 18 1 -3.00537 32 52 -1.09207 46 69 0.96248 
@@ -191,11 +198,12 @@ Escore Cases Value Escore Cases Value Escore Cases Value
 28 23 -1.63340 42 109 0.32197 56 2 2.85950 
 29 32 -1.50796 43 105 0.47617 58 1 3.00537 
 30 38 -1.37639 44 103 0.63779 59 2 3.27393 
+
 Descriptive statistics 
 Min Max Mean Std.dev. 
 -3.27393 3.27393 -0.00016 0.99745 
 
-9. Oscore (Real) is NEO-FFI-R Openness to experience. Possible values are presented in table below: 
+### 9. Oscore (Real) is NEO-FFI-R Openness to experience. Possible values are presented in table below: 
 Oscore Cases Value Oscore Cases Value Oscore Cases Value 
 24 2 -3.27393 38 64 -1.11902 50 83 0.58331 
 26 4 -2.85950 39 60 -0.97631 51 87 0.72330 
@@ -209,11 +217,12 @@ Oscore Cases Value Oscore Cases Value Oscore Cases Value
 35 26 -1.55521 47 107 0.14143 59 13 2.44904 
 36 39 -1.42424 48 116 0.29338 60 7 2.90161 
 37 51 -1.27553 49 98 0.44585 
+
 Descriptive statistics 
 Min Max Mean Std.dev. 
 -3.27393 2.90161 -0.00053 0.99623 
 
-10. Ascore (Real) is NEO-FFI-R Agreeableness. Possible values are presented in table below: 
+### 10. Ascore (Real) is NEO-FFI-R Agreeableness. Possible values are presented in table below: 
 Ascore Cases Value Ascore Cases Value Ascore Cases Value 
 12 1 -3.46436 34 42 -1.34289 48 104 0.76096 
 16 1 -3.15735 35 45 -1.21213 49 85 0.94156 
@@ -229,11 +238,12 @@ Ascore Cases Value Ascore Cases Value Ascore Cases Value
 31 24 -1.77200 45 112 0.28783 59 1 3.15735 
 32 30 -1.62090 46 100 0.43852 60 1 3.46436 
 33 34 -1.47955 47 100 0.59042 
+
 Descriptive statistics 
 Min Max Mean Std.dev. 
 -3.46436 3.46436 -0.00024 0.99744 
 
-11. Cscore (Real) is NEO-FFI-R Conscientiousness. Possible values are presented in table below: 
+### 11. Cscore (Real) is NEO-FFI-R Conscientiousness. Possible values are presented in table below: 
 Cscore Cases Value Cscore Cases Value Cscore Cases Value 
 17 1 -3.46436 32 39 -1.25773 46 113 0.58489 
 19 1 -3.15735 33 49 -1.13788 47 95 0.7583 
@@ -249,11 +259,12 @@ Cscore Cases Value Cscore Cases Value Cscore Cases Value
 29 24 -1.64101 43 90 0.12331 57 3 3.00537 
 30 29 -1.51840 44 111 0.25953 59 1 3.46436 
 31 41 -1.38502 45 111 0.41594 
+
 Descriptive statistics 
 Min Max Mean Std.dev. 
 -3.46436 3.46436 -0.00039 0.99752 
 
-12. Impulsive (Real) is impulsiveness measured by BIS-11. Possible values are presented in table below: 
+### 12. Impulsive (Real) is impulsiveness measured by BIS-11. Possible values are presented in table below: 
 Impulsiveness Cases Fraction 
 -2.55524 20 1.06% 
 -1.37983 276 14.64% 
@@ -265,11 +276,12 @@ Impulsiveness Cases Fraction
 1.29221 148 7.85% 
 1.86203 104 5.52% 
 2.90161 7 0.37% 
+
 Descriptive statistics 
 Min Max Mean Std.dev. 
 -2.55524 2.90161 0.00721 0.95446 
 
-13. SS (Real) is sensation seeing measured by ImpSS. Possible values are presented in table below: 
+### 13. SS (Real) is sensation seeing measured by ImpSS. Possible values are presented in table below: 
 SS Cases Fraction 
 -2.07848 71 3.77% 
 -1.54858 87 4.62% 
@@ -282,18 +294,20 @@ SS Cases Fraction
 0.76540 211 11.19% 
 1.22470 210 11.14% 
 1.92173 103 5.46% 
+
 Descriptive statistics 
 Min Max Mean Std.dev. 
 -2.07848 1.92173 -0.00329 0.96370 
 
-14. Alcohol is class of alcohol consumption. It is output attribute with following distribution of classes. 
+### 14. Alcohol is class of alcohol consumption. It is output attribute with following distribution of classes. 
 
-15. Amphet is class of amphetamines consumption. It is output attribute with following distribution of classes. 
+### 15. Amphet is class of amphetamines consumption. It is output attribute with following distribution of classes. 
 
-16. Amyl is class of amyl nitrite consumption. It is output attribute with following distribution of classes. 
+### 16. Amyl is class of amyl nitrite consumption. It is output attribute with following distribution of classes. 
 
-17. Benzos is class of benzodiazepine consumption. It is output attribute with following distribution of classes: 
-Value Class Alcohol Amphet Amyl Benzos 
+### 17. Benzos is class of benzodiazepine consumption. It is output attribute with following distribution of classes: 
+
+_Value Class Alcohol Amphet Amyl Benzos_ 
 Cases Fraction Cases Fraction Cases Fraction Cases Fraction 
 CL0 Never Used 34 1.80% 976 51.78% 1305 69.23% 1000 53.05% 
 CL1 Used over a Decade Ago 34 1.80% 230 12.20% 210 11.14% 116 6.15% 
@@ -303,14 +317,15 @@ CL4 Used in Last Month 287 15.23% 75 3.98% 24 1.27% 120 6.37%
 CL5 Used in Last Week 759 40.27% 61 3.24% 14 0.74% 84 4.46% 
 CL6 Used in Last Day 505 26.79% 102 5.41% 3 0.16% 95 5.04% 
 
-18. Caff is class of caffeine consumption. It is output attribute with following distribution of classes. 
+### 18. Caff is class of caffeine consumption. It is output attribute with following distribution of classes. 
 
-19. Cannabis is class of cannabis consumption. It is output attribute with following distribution of classes. 
+### 19. Cannabis is class of cannabis consumption. It is output attribute with following distribution of classes. 
 
-20. Choc is class of chocolate consumption. It is output attribute with following distribution of classes. 
+### 20. Choc is class of chocolate consumption. It is output attribute with following distribution of classes. 
 
-21. Coke is class of cocaine consumption. It is output attribute with following distribution of classes: 
-Value Class Caff Cannabis Choc Coke 
+### 21. Coke is class of cocaine consumption. It is output attribute with following distribution of classes: 
+
+_Value Class Caff Cannabis Choc Coke_
 Cases Fraction Cases Fraction Cases Fraction Cases Fraction 
 CL0 Never Used 27 1.43% 413 21.91% 32 1.70% 1038 55.07% 
 CL1 Used over a Decade Ago 10 0.53% 207 10.98% 3 0.16% 160 8.49% 
@@ -320,14 +335,15 @@ CL4 Used in Last Month 106 5.62% 140 7.43% 296 15.70% 99 5.25%
 CL5 Used in Last Week 273 14.48% 185 9.81% 683 36.23% 41 2.18% 
 CL6 Used in Last Day 1385 73.47% 463 24.56% 807 42.81% 19 1.01% 
 
-22. Crack is class of crack consumption. It is output attribute with following distribution of classes. 
+### 22. Crack is class of crack consumption. It is output attribute with following distribution of classes. 
 
-23. Ecstasy is class of ecstasy consumption. It is output attribute with following distribution of classes. 
+### 23. Ecstasy is class of ecstasy consumption. It is output attribute with following distribution of classes. 
 
-24. Heroin is class of heroin consumption. It is output attribute with following distribution of classes. 
+### 24. Heroin is class of heroin consumption. It is output attribute with following distribution of classes. 
 
-25. Ketamine is class of ketamine consumption. It is output attribute with following distribution of classes: 
-Value Class Crack Ecstasy Heroin Ketamine 
+### 25. Ketamine is class of ketamine consumption. It is output attribute with following distribution of classes: 
+
+_Value Class Crack Ecstasy Heroin Ketamine_
 Cases Fraction Cases Fraction Cases Fraction Cases Fraction 
 CL0 Never Used 1627 86.31% 1021 54.16% 1605 85.15% 1490 79.05% 
 CL1 Used over a Decade Ago 67 3.55% 113 5.99% 68 3.61% 45 2.39% 
@@ -337,14 +353,15 @@ CL4 Used in Last Month 9 0.48% 156 8.28% 24 1.27% 42 2.23%
 CL5 Used in Last Week 9 0.48% 63 3.34% 16 0.85% 33 1.75% 
 CL6 Used in Last Day 2 0.11% 21 1.11% 13 0.69% 4 0.21% 
 
-26. Legalh is class of legal highs consumption. It is output attribute with following distribution of classes 
+### 26. Legalh is class of legal highs consumption. It is output attribute with following distribution of classes 
 
-27. LSD is class of alcohol consumption. It is output attribute with following distribution of classes 
+### 27. LSD is class of alcohol consumption. It is output attribute with following distribution of classes 
 
-28. Meth is class of methadone consumption. It is output attribute with following distribution of classes. 
+### 28. Meth is class of methadone consumption. It is output attribute with following distribution of classes. 
 
-29. Mushrooms is class of magic mushrooms consumption. It is output attribute with following distribution of classes: 
-Value Class Legalh LSD Meth Mushrooms 
+### 29. Mushrooms is class of magic mushrooms consumption. It is output attribute with following distribution of classes: 
+
+_Value Class Legalh LSD Meth Mushrooms_
 Cases Fraction Cases Fraction Cases Fraction Cases Fraction 
 CL0 Never Used 1094 58.04% 1069 56.71% 1429 75.81% 982 52.10% 
 CL1 Used over a Decade Ago 29 1.54% 259 13.74% 39 2.07% 209 11.09% 
@@ -354,12 +371,13 @@ CL4 Used in Last Month 110 5.84% 97 5.15% 50 2.65% 115 6.10%
 CL5 Used in Last Week 64 3.40% 56 2.97% 48 2.55% 40 2.12% 
 CL6 Used in Last Day 67 3.55% 13 0.69% 73 3.87% 4 0.21% 
 
-30. Nicotine is class of nicotine consumption. It is output attribute with following distribution of classes. 
+### 30. Nicotine is class of nicotine consumption. It is output attribute with following distribution of classes. 
 
-31. Semer is class of fictitious drug Semeron consumption. It is output attribute with following distribution of classes. 
+### 31. Semer is class of fictitious drug Semeron consumption. It is output attribute with following distribution of classes. 
 
-32. VSA is class of volatile substance abuse consumption. It is output attribute with following distribution of classes: 
-Value Class Nicotine Semer VSA 
+### 32. VSA is class of volatile substance abuse consumption. It is output attribute with following distribution of classes: 
+
+_Value Class Nicotine Semer VSA_
 Cases Fraction Cases Fraction Cases Fraction 
 CL0 Never Used 428 22.71% 1877 99.58% 1455 77.19% 
 CL1 Used over a Decade Ago 193 10.24% 2 0.11% 200 10.61% 
@@ -370,13 +388,13 @@ CL5 Used in Last Week 157 8.33% 0 0.00% 14 0.74%
 CL6 Used in Last Day 610 32.36% 0 0.00% 7 0.37% 
 
 
-Relevant Papers:
+## Relevant Papers:
 
 E. Fehrman, A. K. Muhammad, E. M. Mirkes, V. Egan and A. N. Gorban, "The Five Factor Model of personality and evaluation of drug consumption risk.," arXiv [Web Link], 2015
 
 
 
-Citation Request:
+## Citation Request:
 
 E. Fehrman, A. K. Muhammad, E. M. Mirkes, V. Egan and A. N. Gorban, "The Five Factor Model of personality and evaluation of drug consumption risk.," arXiv [Web Link], 2015
 
