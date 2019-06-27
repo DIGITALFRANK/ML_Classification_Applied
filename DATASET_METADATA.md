@@ -355,7 +355,7 @@ CL6 ///// Used in Last Day ///// 2 / 0.11% /// 21 / 1.11% /// 13 / 0.69% /// 4 /
 
 ### 26. Legalh is class of legal highs consumption. It is output attribute with following distribution of classes 
 
-### 27. LSD is class of alcohol consumption. It is output attribute with following distribution of classes 
+### 27. LSD is class of LSD consumption. It is output attribute with following distribution of classes 
 
 ### 28. Meth is class of methadone consumption. It is output attribute with following distribution of classes. 
 
@@ -397,6 +397,35 @@ E. Fehrman, A. K. Muhammad, E. M. Mirkes, V. Egan and A. N. Gorban, "The Five Fa
 ## Citation Request:
 
 E. Fehrman, A. K. Muhammad, E. M. Mirkes, V. Egan and A. N. Gorban, "The Five Factor Model of personality and evaluation of drug consumption risk.," arXiv [Web Link], 2015
+
+
+_____________________________________________________________________
+
+
+## Drug Observed & DEA Scheduling
+
+**Alcohol** -- NA 
+**Amphetamines** -- Schedule 2  
+**Amyl Nitrites** -- Schedule	
+**Benzodiazepine** -- Schedule	
+**Caffeine** -- NA
+**Cannabis** -- Schedule 1
+**Chocolate** -- NA
+**Coke** -- Schedule 2
+**Crack**	-- Schedule 1
+**Ecstasy**	-- Schedule 2
+**Heroin** -- Schedule 1
+**Ketamine** -- Schedule 3
+**Legal highs** -- NA
+**LSD**	-- Schedule 1
+**Methadone** -- Schedule 2
+**Mushrooms**	-- Schedule 2
+**Nicotine** -- NA
+**VSA** -- NA
+
+
+
+
 
 
 
